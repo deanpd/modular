@@ -1,1 +1,70 @@
 * { box-sizing: border-box; }
+
+.product-name {
+  font-family: Oswald, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+.description {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 1.2rem;
+}
+
+.price-current {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(224, 15, 23);
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.price-regular {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.price-reduced {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  color: rgb(224, 15, 23);
+  font-size: .9rem;
+}
+
+.price-discount-percent {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: .9rem;
+}
+
+.fa-star, .fa-star-half-o {
+  color: rgb(138, 217, 16);
+}
+
+.review-numbers {
+  font-family: Oswald, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.item-number {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.2rem;
+}
+
+.color-size {
+  font-family: Oswald, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.shipping-details {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.fa-exclamation-triangle {
+  color: orange
+}
+
+.details, .specs, .reviews, .qa {
+  font-family: Oswald, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: dodgerblue;
+  font-size: 1.25rem;
+}
+

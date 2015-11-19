@@ -61,10 +61,3 @@
 .fa-exclamation-triangle {
   color: orange
 }
-
-.details, .specs, .reviews, .qa {
-  font-family: Oswald, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: dodgerblue;
-  font-size: 1.25rem;
-}
-
